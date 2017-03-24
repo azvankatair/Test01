@@ -14,6 +14,7 @@ namespace Test01
     {
         public Form1()
         {
+        int a = 100;
             InitializeComponent();
         }
     }
